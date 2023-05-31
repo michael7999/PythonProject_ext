@@ -1,0 +1,12 @@
+pip
+setuptools
+os
+fernet
+cv2
+pygame
+GitPython
+time
+schedule
+platform
+cryptography
+pynput
